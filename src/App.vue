@@ -9,7 +9,7 @@
               :active="$route.path === '/tableApi'"
               class="mx-2 text-white"
               to="/tableApi?param=api"
-              >PAGE SEARCH</b-nav-item
+              >PAGE SEARCH DATA</b-nav-item
             >
             <b-nav-item
               :active="$route.path === '/formInput'"
